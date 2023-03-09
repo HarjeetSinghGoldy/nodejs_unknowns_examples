@@ -3,9 +3,9 @@ While there aren't necessarily "secret" things about Node.js, there are some les
 
 1) Cluster module: Node.js comes with a built-in cluster module that allows you to create child processes that share the same server port. This can improve the performance and reliability of your application, particularly when running on multi-core processors.
 
-REPL: Node.js has a built-in Read-Eval-Print-Loop (REPL) environment that allows you to experiment with code snippets and test out features in real-time.
+2)REPL: Node.js has a built-in Read-Eval-Print-Loop (REPL) environment that allows you to experiment with code snippets and test out features in real-time.
 
-C++ addons: Node.js allows you to write C++ addons that can be used to extend the functionality of your application or integrate with other C++ libraries.
+3)C++ addons: Node.js allows you to write C++ addons that can be used to extend the functionality of your application or integrate with other C++ libraries.
 
 Memory management: Node.js uses an automatic garbage collector to manage memory, but you can also manually manage memory allocation using the Buffer class.
 
