@@ -7,11 +7,11 @@ While there aren't necessarily "secret" things about Node.js, there are some les
 
 3)C++ addons: Node.js allows you to write C++ addons that can be used to extend the functionality of your application or integrate with other C++ libraries.
 
-Memory management: Node.js uses an automatic garbage collector to manage memory, but you can also manually manage memory allocation using the Buffer class.
+4)Memory management: Node.js uses an automatic garbage collector to manage memory, but you can also manually manage memory allocation using the Buffer class.
 
-Profiling: Node.js has built-in profiling tools that allow you to identify performance bottlenecks and optimize your code for maximum efficiency.
+5)Profiling: Node.js has built-in profiling tools that allow you to identify performance bottlenecks and optimize your code for maximum efficiency.
 
-Custom event loops: While Node.js uses a default event loop, you can also create your own custom event loop that allows you to handle specific types of events or prioritize certain tasks.
+6)Custom event loops: While Node.js uses a default event loop, you can also create your own custom event loop that allows you to handle specific types of events or prioritize certain tasks.
 
 ES Modules: Node.js supports ECMAScript (ES) modules, which allows you to use the import/export syntax for module loading instead of the require syntax.
 

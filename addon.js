@@ -4,7 +4,7 @@ console.log(addon.hello()); // Outputs "Hello World!"
 
 
 // step 1: Next, create a file called "binding.gyp" and add the following code:
-{
+// {
 //   "targets": [
 //     {
 //       "target_name": "addon",
